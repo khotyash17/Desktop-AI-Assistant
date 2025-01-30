@@ -1,0 +1,6 @@
+pillow=11.1
+lxml=5.3
+requests-html=2.6
+pyttsx3=2.98
+SpeechRecognition=3.8
+PyAudio=0.2
